@@ -1,0 +1,43 @@
+.header {
+    width: 700px;
+    margin: auto;
+}
+li {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    background: none;
+}
+li a {
+    display: block;
+    color: #595959;
+    text-align: center;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 0 10px;
+}
+ul {
+    object-fit: cover;
+    list-style-type: none;    
+    overflow: hidden;
+    margin: auto;
+    line-height: 51px;
+}
+li a:hover {
+    background-color: wheat;
+}
+
+.prev{
+    background-image: url("/OnlineQuiz/images/top_box.gif");
+    width: 700px;
+    height: 19px;
+}
+.menu{
+    background-color: white;
+}
+.menu .mn{
+    width: 663px;
+    height: 51px;
+    background-image: url("/OnlineQuiz/images/menu_bg.gif");
+    margin: auto;
+}

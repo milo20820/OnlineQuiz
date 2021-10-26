@@ -1,0 +1,44 @@
+body {
+    background-image: url("/OnlineQuiz/images/bg.jpg");
+}
+
+.container{
+    width: 700px;
+    margin: auto;
+}
+
+.content{
+        background-color: white;
+        min-height: 80vh;
+}
+.content h3{
+    margin: 0;
+    padding: 1rem 0;
+}
+.all{
+    width: 663px;
+    margin: auto;
+}
+.all .title{
+    padding-left: 2rem;
+    color: #21497d;
+}
+.all .rg{
+    padding-left: 2rem;
+}
+
+input[type=text] {
+    background-color: #fff68f;
+}
+
+input[type=password] {
+    background-color: #fff68f;
+}
+
+tr {
+    height: 20px;
+}
+
+td {  
+    width: 130px;
+}

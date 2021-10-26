@@ -1,0 +1,32 @@
+body {
+    background-image: url("/OnlineQuiz/images/bg.jpg");
+}
+
+.container{
+    width: 700px;
+    margin: auto;
+}
+
+.content{
+        background-color: white;
+        min-height: 80vh;
+}
+.content h3{
+    margin: 0;
+    padding: 1rem 0;
+}
+.all{
+    width: 663px;
+    margin: auto;
+}
+
+.score{
+    padding-top: 3rem;
+    padding-left: 2rem;
+}
+.other{
+    padding-left: 2rem;
+}
+.other a{
+    text-decoration: none;
+}

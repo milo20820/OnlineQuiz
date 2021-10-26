@@ -1,0 +1,84 @@
+
+body {
+    background-image: url("/OnlineQuiz/images/bg.jpg");
+}
+
+p{
+    font-size: 18px;
+    color: #1E1A19;
+    text-decoration: none;
+}
+
+h3 {
+    color: #21497d;
+    text-decoration: none;
+}
+
+tr {
+    height: 20px;
+}
+
+td {  
+    width: 130px;
+}
+
+input[type=text] {
+    background-color: #fff68f;
+}
+
+input[type=password] {
+    background-color: #fff68f;
+}
+
+#tr-manage {
+    width: 70%;
+}
+
+#th-manage {
+    text-align: left;
+    width: 70%;   
+}
+
+#th1-manage {
+    text-align: left;
+    width: 30%;
+}
+
+#td-manage {
+}
+
+#tr-make {
+    width: 100%;
+}
+
+#th-make {
+    text-align: left;
+    width: 10%;
+    vertical-align: top;
+}
+
+#th1-make {
+    text-align: left;
+    width: 90%;
+    vertical-align: text-top;
+}
+
+#td-make {
+    vertical-align: text-top;
+}
+
+textarea {
+    width: 90%;
+}
+
+#textarea1{
+    width: 90%;
+    height: 120px;
+}
+
+
+
+#div2-right{
+    margin-right: 0%;
+}
+
